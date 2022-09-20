@@ -12,8 +12,4 @@ random??
 
 asdfds
 
-<<<<<<< HEAD
-time for some conflict indeed :)
-=======
 time for conflict ;)
->>>>>>> 3a91bee76205bfb46582505ef7e5d4b49e86c2f9
